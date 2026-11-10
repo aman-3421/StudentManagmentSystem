@@ -1,7 +1,14 @@
 # Student Management System
 
 A Java-based Student Management System developed using **Java Swing, JDBC, MySQL, and Maven**. The application provides a graphical interface for managing student information, marks, attendance, and results, with MySQL used to store records persistently.
+---
+## 👥 Project Contributors & Team Division
 
+| Member Name | Role | Key Contributions |
+| :--- | :--- | :--- |
+| **Aman Kumar Sharma** | Full-Stack Architecture & Backend | Application core architecture, JDBC connection management, Swing GUI layout, MySQL transaction handling |
+| **Nasreen Ansari** | Database & Business Logic | Relational schema design (`setup.sql`), input validation rules, attendance calculation algorithms, technical documentation |
+---
 ## 📌 Project Overview
 
 The Student Management System is designed to simplify student record management through a user-friendly desktop application. It allows users to register students, manage academic marks, record attendance, calculate results, and search student records.
