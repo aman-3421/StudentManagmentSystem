@@ -9,7 +9,9 @@ A Java-based Student Management System developed using **Java Swing, JDBC, MySQL
 | Member Name | Role | Key Contributions |
 | :--- | :--- | :--- |
 | **Aman Kumar Sharma** | Full-Stack Architecture & Backend | Application core architecture, JDBC connection management, Swing GUI layout, MySQL transaction handling |
-| **Nasreen Ansari** | Database & Business Logic | Relational schema design (`setup.sql`), input validation rules, attendance calculation algorithms, technical documentation |
+| **Nasreen Ansari** | Database & Business Logic | Relational schema design (`setup.sql`), attendance calculation algorithms, grievance workflow queries |
+| **Pranisha Chettri** | Frontend Validation & Documentation | Input validation rules, search & result calculation modules, testing, and technical documentation |
+
 ---
 
 
